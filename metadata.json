@@ -1,0 +1,6 @@
+{
+  "name": "Tomchi — IP Kamera va ANPR Bonus Tizimi",
+  "description": "Avtomoyka boxlarini past sifatli IP kamera oqimidan kuzatish, 1 FPS yuqori sifatli ANPR va 80% kelishuv asosida avtomatik bonus tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
